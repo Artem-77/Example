@@ -1,0 +1,15 @@
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+D:\papka\git\lesson_08_02\Example\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
